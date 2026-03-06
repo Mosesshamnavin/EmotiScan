@@ -17,9 +17,9 @@
   ],
   "license": "ISC",
   "dependencies": {
-    "@tensorflow/tfjs-node": "^4.20.0",
-    "@vladmandic/face-api": "^1.7.13",
-    "@vladmandic/pilogger": "^0.4.9",
+    "@nlpjs/core": "^5.0.0-alpha.5",
+    "@nlpjs/language": "^5.0.0-alpha.5",
+    "@nlpjs/utils": "^5.0.0-alpha.5",
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
     "dotenv-safe": "^8.2.0",
